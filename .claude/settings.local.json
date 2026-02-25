@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(venv/Scripts/python.exe -m pip:*)",
+      "mcp__ide__getDiagnostics",
+      "Bash(venv/Scripts/python.exe:*)",
+      "Bash(dir /B:*)",
+      "Bash(..venvScriptspython.exe main.py)",
+      "Bash(\"C:\\Users\\Tharindu Nandun\\Desktop\\Y4 S2\\MTIT\\practical\\p3\\microservices-fastapi\\venv\\Scripts\\python.exe\" main.py)",
+      "Bash(\"C:\\Users\\Tharindu Nandun\\Desktop\\Y4 S2\\MTIT\\practical\\p3\\microservices-fastapi\\venv\\Scripts\\python.exe\" -m uvicorn:*)"
+    ]
+  }
+}
